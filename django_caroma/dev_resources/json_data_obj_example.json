@@ -1,0 +1,1066 @@
+[{
+    "services": [
+        {
+            "url": "https://marthas-stuttgart.de/"
+        },
+        {
+            "url": "https://marthas-stuttgart.de/?lang=en"
+        },
+        {
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g187291-d8659210-Reviews-Martha_s-Stuttgart_Baden_Wurttemberg.html"
+        },
+        {
+            "url": "https://www.stuttgart-tourist.de/en/a-marthas"
+        },
+        {
+            "url": "https://www.happycow.net/reviews/marthas-stuttgart-207374"
+        }
+    ],
+    "menu_cards": [
+        {
+            "name": "Speisekarte",
+            "type": "EMPTY",
+            "items": [
+                {
+                    "category": "Warm Vorspeisen",
+                    "name": "KNOBLAUCHSUPPE",
+                    "description": "Knoblauch",
+                    "ingredients": [],
+                    "price_raw": "6.50",
+                    "price": 650
+                },
+                {
+                    "category": "",
+                    "name": "BEILAGEN SALAT",
+                    "description": "Salat",
+                    "ingredients": ["caro special"],
+                    "price_raw": "5.80",
+                    "price": 580
+                },
+                {
+                    "category": "",
+                    "name": "LAGUNA SALAT",
+                    "description": "Hähnchenbrust, Manchegokäse, Membrillo, Karamellisierte Walnüsse und Mandeln",
+                    "ingredients": [],
+                    "price_raw": "13.50",
+                    "price": 1350
+                },
+                {
+                    "category": "",
+                    "name": "4 OLIVEN",
+                    "description": "Hausgemachtes Alioli, Brot",
+                    "ingredients": [],
+                    "price_raw": "5,00",
+                    "price": 500
+                },
+                {
+                    "category": "",
+                    "name": "5 KRABBEN IN KNOBLAUCH",
+                    "description": "Knoblauch",
+                    "ingredients": [],
+                    "price_raw": "13,00",
+                    "price": 1300
+                },
+                {
+                    "category": "",
+                    "name": "6 WILDE KARTOFFELN",
+                    "description": "Alioli",
+                    "ingredients": [],
+                    "price_raw": "6,00",
+                    "price": 600
+                },
+                {
+                    "category": "",
+                    "name": "7 KOMBINIERTER TAPASTELLER",
+                    "description": "Serrano Schinken, Oliven, Gemüse, Datteln, Tortilla, Kroketten, Manchegokäse, Quitten-Gelée",
+                    "ingredients": [],
+                    "price_raw": "14,00",
+                    "price": 1400
+                },
+                {
+                    "category": "",
+                    "name": "8 VARIATION VON TINTENFISCHEN",
+                    "description": "Karamellisierte Kirschtomaten, Kartoffeln, Blattsalat",
+                    "ingredients": [],
+                    "price_raw": "18,50",
+                    "price": 1850
+                },
+                {
+                    "category": "",
+                    "name": "GEGRILLTE LANGOSTINOS",
+                    "description": "selbstgemachten Kartoffelchips und Mojo auf Salatplatte",
+                    "ingredients": [],
+                    "price_raw": "24,00",
+                    "price": 2400
+                },
+                {
+                    "category": "",
+                    "name": "LAMM IN MINZ-MANDELSAUCE",
+                    "description": "Kartoffeln und Gemüse",
+                    "ingredients": [],
+                    "price_raw": "19,50",
+                    "price": 1950
+                },
+                {
+                    "category": "",
+                    "name": "DUETT VON RINDERHÜFTE UND RIESENGAMBAS",
+                    "description": "Pesto fresco spanische Art, Wilde Kartoffeln und Salat",
+                    "ingredients": [],
+                    "price_raw": "26,00",
+                    "price": 2600
+                },
+                {
+                    "category": "",
+                    "name": "FISCHPLATTE",
+                    "description": "Lachs, Wolfsbarsch, Seehechtlet, Calmar und Gambas",
+                    "ingredients": [],
+                    "price_raw": "26.00",
+                    "price": 2600
+                },
+                {
+                    "category": "",
+                    "name": "PAELLA MIXTA",
+                    "description": "Meeresfrüchte, Hähncheneisch, Gemüse und Reis",
+                    "ingredients": [],
+                    "price_raw": "18.00",
+                    "price": 1800
+                },
+                {
+                    "category": "",
+                    "name": "PAELLA MARISCO",
+                    "description": "Meeresfrüchte, Fisch, Gemüse und Reis",
+                    "ingredients": [],
+                    "price_raw": "19.00",
+                    "price": 1900
+                },
+                {
+                    "category": "",
+                    "name": "PAELLA VERDURAS",
+                    "description": "Mit Saison-Gemüse und Reis",
+                    "ingredients": [],
+                    "price_raw": "16.00",
+                    "price": 1600
+                },
+                {
+                    "category": "",
+                    "name": "LAGUNA FLEISCHSPIESS",
+                    "description": "Rind, Hähnchen, Schweinelet und Salat",
+                    "ingredients": [],
+                    "price_raw": "25.00",
+                    "price": 2500
+                },
+                {
+                    "category": "",
+                    "name": "FLAN",
+                    "description": "Karamell-Creme",
+                    "ingredients": [],
+                    "price_raw": "6,00",
+                    "price": 600
+                },
+                {
+                    "category": "",
+                    "name": "CREMA CATALANA",
+                    "description": "Crem Katalan",
+                    "ingredients": [],
+                    "price_raw": "7,00",
+                    "price": 700
+                },
+                {
+                    "category": "",
+                    "name": "SHERRY TROCKEN / MEDIUM",
+                    "description": "Aperitivos und Biere",
+                    "ingredients": [],
+                    "price_raw": "6,00",
+                    "price": 600
+                },
+                {
+                    "category": "",
+                    "name": "APEROL SPRITZ",
+                    "description": "0,2 l",
+                    "ingredients": [],
+                    "price_raw": "6.50",
+                    "price": 650
+                },
+                {
+                    "category": "",
+                    "name": "GIN FLOR DE SEVILLA",
+                    "description": "0,3 l",
+                    "ingredients": [],
+                    "price_raw": "7.50",
+                    "price": 750
+                },
+                {
+                    "category": "",
+                    "name": "FÜRSTENBERG PILS",
+                    "description": "0,3 l",
+                    "ingredients": [],
+                    "price_raw": "3.80",
+                    "price": 380
+                },
+                {
+                    "category": "",
+                    "name": "FÜRSTENBERG HEFEWEIZEN",
+                    "description": "0,5 l",
+                    "ingredients": [],
+                    "price_raw": "4.50",
+                    "price": 450
+                },
+                {
+                    "category": "",
+                    "name": "FÜRSTENBERG ALKOHOLFREI",
+                    "description": "0,3 l",
+                    "ingredients": [],
+                    "price_raw": "3.50",
+                    "price": 350
+                },
+                {
+                    "category": "",
+                    "name": "ESTRELLA DE GALCIA",
+                    "description": "0,3 l",
+                    "ingredients": [],
+                    "price_raw": "3.90",
+                    "price": 390
+                },
+                {
+                    "category": "",
+                    "name": "COCA-COLA",
+                    "description": "0,4 l",
+                    "ingredients": [],
+                    "price_raw": "3.80",
+                    "price": 380
+                },
+                {
+                    "category": "",
+                    "name": "MINERALWASSER",
+                    "description": "0,5 l",
+                    "ingredients": [],
+                    "price_raw": "3.50",
+                    "price": 350
+                },
+                {
+                    "category": "",
+                    "name": "MINERALWASSER",
+                    "description": "29",
+                    "ingredients": [],
+                    "price_raw": "5,80",
+                    "price": 580
+                },
+                {
+                    "category": "",
+                    "name": "APFELSAFT",
+                    "description": "30",
+                    "ingredients": [],
+                    "price_raw": "2,20",
+                    "price": 220
+                },
+                {
+                    "category": "",
+                    "name": "APFELSAFT-SCHORLE",
+                    "description": "31",
+                    "ingredients": [],
+                    "price_raw": "3,50",
+                    "price": 350
+                },
+                {
+                    "category": "",
+                    "name": "ORANGENSAFT",
+                    "description": "32",
+                    "ingredients": [],
+                    "price_raw": "3,50",
+                    "price": 350
+                },
+                {
+                    "category": "",
+                    "name": "JOHANNISBEER-SCHORLE",
+                    "description": "33",
+                    "ingredients": [],
+                    "price_raw": "4,20",
+                    "price": 420
+                },
+                {
+                    "category": "",
+                    "name": "TRAUBENSAFT",
+                    "description": "34",
+                    "ingredients": [],
+                    "price_raw": "3,50",
+                    "price": 350
+                },
+                {
+                    "category": "",
+                    "name": "MARACUJASAFT",
+                    "description": "35",
+                    "ingredients": [],
+                    "price_raw": "3,50",
+                    "price": 350
+                },
+                {
+                    "category": "",
+                    "name": "SPANISCHER LANDWEIN",
+                    "description": "Rot, Rosé, Weiß",
+                    "ingredients": [],
+                    "price_raw": "4,80",
+                    "price": 480
+                },
+                {
+                    "category": "",
+                    "name": "SPANISCHER LANDWEIN",
+                    "description": "Rot, Rosé, Weiß",
+                    "ingredients": [],
+                    "price_raw": "11,00",
+                    "price": 1100
+                },
+                {
+                    "category": "",
+                    "name": "SPANISCHER LANDWEIN",
+                    "description": "Rot, Rosé, Weiß",
+                    "ingredients": [],
+                    "price_raw": "20,00",
+                    "price": 2000
+                },
+                {
+                    "category": "",
+                    "name": "RIOJA",
+                    "description": "Rot, Rosé, Weiß",
+                    "ingredients": [],
+                    "price_raw": "5,80",
+                    "price": 580
+                },
+                {
+                    "category": "",
+                    "name": "SANGRIA",
+                    "description": "",
+                    "ingredients": [],
+                    "price_raw": "9,00",
+                    "price": 900
+                },
+                {
+                    "category": "",
+                    "name": "SANGRIA",
+                    "description": "Vinos de Reserva ERLESENE WEINE",
+                    "ingredients": [],
+                    "price_raw": "18,00",
+                    "price": 1800
+                },
+                {
+                    "category": "",
+                    "name": "42 RIOJA",
+                    "description": "Rot, Rosé, Weiß",
+                    "ingredients": [],
+                    "price_raw": "22,00",
+                    "price": 2200
+                },
+                {
+                    "category": "",
+                    "name": "43 MARQUES DE RISCAL",
+                    "description": "Weiß",
+                    "ingredients": [],
+                    "price_raw": "29,00",
+                    "price": 2900
+                },
+                {
+                    "category": "",
+                    "name": "44 MARQUES DE RISCAL",
+                    "description": "Rot D.D.O.C.",
+                    "ingredients": [],
+                    "price_raw": "48,00",
+                    "price": 4800
+                },
+                {
+                    "category": "",
+                    "name": "45 RIBERA DEL DUERO",
+                    "description": "D.D.O.",
+                    "ingredients": [],
+                    "price_raw": "37,00",
+                    "price": 3700
+                },
+                {
+                    "category": "",
+                    "name": "46 ANARES",
+                    "description": "Rot D.O.",
+                    "ingredients": [],
+                    "price_raw": "29,00",
+                    "price": 2900
+                },
+                {
+                    "category": "",
+                    "name": "47 SPANISCHER CAVA-SEKT",
+                    "description": "trocken",
+                    "ingredients": [],
+                    "price_raw": "6,00",
+                    "price": 600
+                },
+                {
+                    "category": "",
+                    "name": "48 SPANISCHER CAVA-SEKT",
+                    "description": "trocken",
+                    "ingredients": [],
+                    "price_raw": "38,00",
+                    "price": 3800
+                },
+                {
+                    "category": "",
+                    "name": "MAGNO",
+                    "description": "2 cl",
+                    "ingredients": [],
+                    "price_raw": "4.00",
+                    "price": 400
+                },
+                {
+                    "category": "",
+                    "name": "CARLOS I",
+                    "description": "2 cl",
+                    "ingredients": [],
+                    "price_raw": "7.00",
+                    "price": 700
+                },
+                {
+                    "category": "",
+                    "name": "CARDENAL MENDOZA",
+                    "description": "2 cl",
+                    "ingredients": [],
+                    "price_raw": "9.00",
+                    "price": 900
+                },
+                {
+                    "category": "",
+                    "name": "ANIS DULCE",
+                    "description": "2 cl",
+                    "ingredients": [],
+                    "price_raw": "4.00",
+                    "price": 400
+                },
+                {
+                    "category": "",
+                    "name": "LICOR \"43\"",
+                    "description": "2 cl",
+                    "ingredients": [],
+                    "price_raw": "4.00",
+                    "price": 400
+                },
+                {
+                    "category": "",
+                    "name": "ESPRESSO",
+                    "description": "",
+                    "ingredients": [],
+                    "price_raw": "2.50",
+                    "price": 250
+                },
+                {
+                    "category": "",
+                    "name": "CORTADO",
+                    "description": "Espresso, Milch",
+                    "ingredients": [],
+                    "price_raw": "2.70",
+                    "price": 270
+                },
+                {
+                    "category": "",
+                    "name": "CARAJILLO",
+                    "description": "Espresso, Brandy",
+                    "ingredients": [],
+                    "price_raw": "4.70",
+                    "price": 470
+                },
+                {
+                    "category": "",
+                    "name": "SPANISCHER MILCHKAFFEE",
+                    "description": "",
+                    "ingredients": [],
+                    "price_raw": "3.80",
+                    "price": 380
+                },
+                {
+                    "category": "",
+                    "name": "ESPRESSO \"43\"",
+                    "description": "Espresso, \"43\"",
+                    "ingredients": [],
+                    "price_raw": "5.30",
+                    "price": 530
+                }
+            ]
+        }
+    ],
+    "ratings": [
+        {
+            "source": "Google",
+            "avg": 4.3,
+            "one_star_count": 19,
+            "two_star_count": 20,
+            "three_star_count": 38,
+            "four_star_count": 109,
+            "five_star_count": 273,
+            "total_count": 459
+        }
+    ],
+    "longitude": 9.1781703,
+    "latitude": 48.7791212,
+    "place_id": "ChIJY81GzDXbmUcRwYMfi4rslkU",
+    "name": "Martha's",
+    "place_url": "https://www.google.com/maps/search/?api=1&query=Martha's&query_place_id=ChIJY81GzDXbmUcRwYMfi4rslkU",
+    "street": "Königstraße 28",
+    "postal_code": "70173",
+    "city": "Stuttgart",
+    "state": "BW",
+    "country": "DE",
+    "phone": "+49 711 72230555",
+    "website_url": "http://www.marthas-stuttgart.de/",
+    "type": "Restaurant mit Essen zum Mitnehmen",
+    "opening_time_monday": "10:00 to 21:00",
+    "opening_time_tuesday": "10:00 to 21:00",
+    "opening_time_wednesday": "10:00 to 21:00",
+    "opening_time_thursday": "10:00 to 21:00",
+    "opening_time_friday": "10:00 to 19:00",
+    "opening_time_saturday": "10:00 to 21:00",
+    "opening_time_sunday": "10:00 to 21:00",
+    "utilization_monday": [
+        {
+            "hour": 6,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 7,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 8,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 9,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 10,
+            "occupancyPercent": 43
+        },
+        {
+            "hour": 11,
+            "occupancyPercent": 22
+        },
+        {
+            "hour": 12,
+            "occupancyPercent": 11
+        },
+        {
+            "hour": 13,
+            "occupancyPercent": 4
+        },
+        {
+            "hour": 14,
+            "occupancyPercent": 11
+        },
+        {
+            "hour": 15,
+            "occupancyPercent": 13
+        },
+        {
+            "hour": 16,
+            "occupancyPercent": 29
+        },
+        {
+            "hour": 17,
+            "occupancyPercent": 29
+        },
+        {
+            "hour": 18,
+            "occupancyPercent": 34
+        },
+        {
+            "hour": 19,
+            "occupancyPercent": 22
+        },
+        {
+            "hour": 20,
+            "occupancyPercent": 27
+        },
+        {
+            "hour": 21,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 22,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 23,
+            "occupancyPercent": 0
+        }
+    ],
+    "utilization_tuesday": [
+        {
+            "hour": 6,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 7,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 8,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 9,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 10,
+            "occupancyPercent": 22
+        },
+        {
+            "hour": 11,
+            "occupancyPercent": 40
+        },
+        {
+            "hour": 12,
+            "occupancyPercent": 36
+        },
+        {
+            "hour": 13,
+            "occupancyPercent": 38
+        },
+        {
+            "hour": 14,
+            "occupancyPercent": 43
+        },
+        {
+            "hour": 15,
+            "occupancyPercent": 45
+        },
+        {
+            "hour": 16,
+            "occupancyPercent": 52
+        },
+        {
+            "hour": 17,
+            "occupancyPercent": 36
+        },
+        {
+            "hour": 18,
+            "occupancyPercent": 18
+        },
+        {
+            "hour": 19,
+            "occupancyPercent": 4
+        },
+        {
+            "hour": 20,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 21,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 22,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 23,
+            "occupancyPercent": 0
+        }
+    ],
+    "utilization_wednesday": [
+        {
+            "hour": 6,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 7,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 8,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 9,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 10,
+            "occupancyPercent": 6
+        },
+        {
+            "hour": 11,
+            "occupancyPercent": 11
+        },
+        {
+            "hour": 12,
+            "occupancyPercent": 22
+        },
+        {
+            "hour": 13,
+            "occupancyPercent": 50
+        },
+        {
+            "hour": 14,
+            "occupancyPercent": 47
+        },
+        {
+            "hour": 15,
+            "occupancyPercent": 31
+        },
+        {
+            "hour": 16,
+            "occupancyPercent": 31
+        },
+        {
+            "hour": 17,
+            "occupancyPercent": 25
+        },
+        {
+            "hour": 18,
+            "occupancyPercent": 27
+        },
+        {
+            "hour": 19,
+            "occupancyPercent": 13
+        },
+        {
+            "hour": 20,
+            "occupancyPercent": 6
+        },
+        {
+            "hour": 21,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 22,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 23,
+            "occupancyPercent": 0
+        }
+    ],
+    "utilization_thursday": [
+        {
+            "hour": 6,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 7,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 8,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 9,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 10,
+            "occupancyPercent": 38
+        },
+        {
+            "hour": 11,
+            "occupancyPercent": 47
+        },
+        {
+            "hour": 12,
+            "occupancyPercent": 47
+        },
+        {
+            "hour": 13,
+            "occupancyPercent": 59
+        },
+        {
+            "hour": 14,
+            "occupancyPercent": 36
+        },
+        {
+            "hour": 15,
+            "occupancyPercent": 36
+        },
+        {
+            "hour": 16,
+            "occupancyPercent": 31
+        },
+        {
+            "hour": 17,
+            "occupancyPercent": 34
+        },
+        {
+            "hour": 18,
+            "occupancyPercent": 43
+        },
+        {
+            "hour": 19,
+            "occupancyPercent": 27
+        },
+        {
+            "hour": 20,
+            "occupancyPercent": 25
+        },
+        {
+            "hour": 21,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 22,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 23,
+            "occupancyPercent": 0
+        }
+    ],
+    "utilization_friday": [
+        {
+            "hour": 6,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 7,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 8,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 9,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 10,
+            "occupancyPercent": 29
+        },
+        {
+            "hour": 11,
+            "occupancyPercent": 38
+        },
+        {
+            "hour": 12,
+            "occupancyPercent": 72
+        },
+        {
+            "hour": 13,
+            "occupancyPercent": 86
+        },
+        {
+            "hour": 14,
+            "occupancyPercent": 72
+        },
+        {
+            "hour": 15,
+            "occupancyPercent": 40
+        },
+        {
+            "hour": 16,
+            "occupancyPercent": 15
+        },
+        {
+            "hour": 17,
+            "occupancyPercent": 9
+        },
+        {
+            "hour": 18,
+            "occupancyPercent": 15
+        },
+        {
+            "hour": 19,
+            "occupancyPercent": 34
+        },
+        {
+            "hour": 20,
+            "occupancyPercent": 40
+        },
+        {
+            "hour": 21,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 22,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 23,
+            "occupancyPercent": 0
+        }
+    ],
+    "utilization_saturday": [
+        {
+            "hour": 6,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 7,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 8,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 9,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 10,
+            "occupancyPercent": 18
+        },
+        {
+            "hour": 11,
+            "occupancyPercent": 29
+        },
+        {
+            "hour": 12,
+            "occupancyPercent": 34
+        },
+        {
+            "hour": 13,
+            "occupancyPercent": 40
+        },
+        {
+            "hour": 14,
+            "occupancyPercent": 50
+        },
+        {
+            "hour": 15,
+            "occupancyPercent": 65
+        },
+        {
+            "hour": 16,
+            "occupancyPercent": 100
+        },
+        {
+            "hour": 17,
+            "occupancyPercent": 77
+        },
+        {
+            "hour": 18,
+            "occupancyPercent": 72
+        },
+        {
+            "hour": 19,
+            "occupancyPercent": 45
+        },
+        {
+            "hour": 20,
+            "occupancyPercent": 22
+        },
+        {
+            "hour": 21,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 22,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 23,
+            "occupancyPercent": 0
+        }
+    ],
+    "utilization_sunday": [
+        {
+            "hour": 6,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 7,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 8,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 9,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 10,
+            "occupancyPercent": 13
+        },
+        {
+            "hour": 11,
+            "occupancyPercent": 18
+        },
+        {
+            "hour": 12,
+            "occupancyPercent": 15
+        },
+        {
+            "hour": 13,
+            "occupancyPercent": 29
+        },
+        {
+            "hour": 14,
+            "occupancyPercent": 50
+        },
+        {
+            "hour": 15,
+            "occupancyPercent": 61
+        },
+        {
+            "hour": 16,
+            "occupancyPercent": 36
+        },
+        {
+            "hour": 17,
+            "occupancyPercent": 13
+        },
+        {
+            "hour": 18,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 19,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 20,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 21,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 22,
+            "occupancyPercent": 0
+        },
+        {
+            "hour": 23,
+            "occupancyPercent": 0
+        }
+    ],
+    "properties": [
+        "WC",
+        "Rollstuhlgerechte Sitzgelegenheiten",
+        "Süßspeisen",
+        "Abholung vor dem Laden",
+        "Familienfreundlich",
+        "LGBTQ+-freundlich",
+        "Kleine Gerichte zum Teilen",
+        "Sitzplätze im Freien",
+        "Alkohol",
+        "Kaffee",
+        "Salatbar",
+        "Mittagessen",
+        "Reservierungen möglich",
+        "Vegane Gerichte",
+        "Debitkarten",
+        "Speisen vor Ort",
+        "Zwanglos",
+        "Zum Mitnehmen",
+        "Mobile Zahlungen per NFC",
+        "Kinder­freundlich",
+        "Kreditkarten",
+        "Abendessen",
+        "Sicherer Ort für Transgender",
+        "Vegetarische Gerichte",
+        "Bier",
+        "Catering",
+        "Sitzgelegenheiten",
+        "Frühstück",
+        "Rollstuhlgerechter Eingang",
+        "Biogerichte"
+    ],
+    "review_tags": "currywurst, pommes, flammkuchen, getränke, scharf, pastrami-sandwich, büffelburger, bauernbrot, currysauce, maultaschen"
+}]
