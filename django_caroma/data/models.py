@@ -50,7 +50,7 @@ class MenuItemIngredient(models.Model):
     name = models.CharField(max_length=255)
 
 class Rating(models.Model):
-    restaurant = models.OneToOneField(Restaurant, on_delete=models.CASCADE)
+    restaurant = models.OneToOneField(Restaurant, on_delete=models.CASCADE, related_name='rating')
     source = models.CharField(max_length=100)
     avg = models.FloatField()
     one_star_count = models.IntegerField()
