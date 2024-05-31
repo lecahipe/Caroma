@@ -63,7 +63,7 @@ class MenuItemIngredient(models.Model):
         return f"{self.menu_item} - {self.name}"
 
 class Rating(models.Model):
-    restaurant = models.OneToOneField(Restaurant, on_delete=models.CASCADE, related_name='rating')
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='ratings')
     source = models.CharField(max_length=100)
     avg = models.FloatField()
     one_star_count = models.IntegerField()
@@ -102,7 +102,7 @@ class Property(models.Model):
         return f"{self.restaurant} - {self.value}"
 
 class ReviewTag(models.Model):
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='tags')
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='review_tags')
     tags = models.TextField()
     
     def __str__(self):
