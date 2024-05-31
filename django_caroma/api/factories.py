@@ -1,6 +1,5 @@
 import factory
 from factory.django import DjangoModelFactory
-from data.models import Restaurant
 
 class RestaurantFactory(DjangoModelFactory):
     name = factory.Faker('company')
@@ -42,7 +41,7 @@ class MenuItemIngredientFactory(DjangoModelFactory):
     name = factory.Faker('name')
 
 class Rating(DjangoModelFactory):
-    restaurant = factory.SubFactory(Restaurant)
+    restaurant = factory.SubFactory(RestaurantFactory)
     source = factory.Faker('word')
     avg = factory.Faker('random_int', min=0, max=5)
     one_star_count = factory.Faker('random_int')
