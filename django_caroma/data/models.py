@@ -28,12 +28,18 @@ class Restaurant(models.Model):
             models.Index(fields=['longitude', 'latitude']),
             models.Index(fields=['postal_code']),
         ]
-
+    
+    def __str__(self):
+        return f"{self.name}"
 
 class MenuCard(models.Model):
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='menu_cards')
     name = models.CharField(max_length=255)
     type = models.CharField(max_length=100)
+    
+    def __str__(self):
+        return f"{self.restaurant} - {self.name}"
+    
     
 class MenuItem(models.Model):
     menu_card = models.ForeignKey(MenuCard, on_delete=models.CASCADE, related_name='items')
@@ -44,10 +50,17 @@ class MenuItem(models.Model):
     price_raw = models.FloatField(blank=True, null=True)
     price = models.IntegerField(blank=True, null=True)
     type = models.CharField(max_length=100)
+    
+    def __str__(self):
+        return f"{self.menu_card} - {self.name}"
+
 
 class MenuItemIngredient(models.Model):
     menu_item = models.ForeignKey(MenuItem, on_delete=models.CASCADE, related_name='ingredients')
     name = models.CharField(max_length=255)
+    
+    def __str__(self):
+        return f"{self.menu_item} - {self.name}"
 
 class Rating(models.Model):
     restaurant = models.OneToOneField(Restaurant, on_delete=models.CASCADE, related_name='rating')
@@ -59,27 +72,46 @@ class Rating(models.Model):
     four_star_count = models.IntegerField()
     five_star_count = models.IntegerField()
     total_count = models.IntegerField()
+    
+    def __str__(self):
+        return f"{self.restaurant} - {self.avg}"
 
 class Utilization(models.Model):
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='utilizations')
     day_of_week = models.CharField(max_length=10)
     hour = models.IntegerField()
     occupancy_percent = models.FloatField()
-
+    
+    def __str__(self):
+        return f"{self.restaurant} - {self.day_of_week} - {self.occupancy_percent}"
+    
 class OpeningTime(models.Model):
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='opening_times')
     day_of_week = models.CharField(max_length=10)
     time = models.CharField(max_length=25)
     
+    def __str__(self):
+        return f"{self.restaurant} - {self.day_of_week} - {self.time}"
+    
 class Property(models.Model):
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='properties')
     key = models.CharField(max_length=100, blank=True, null=True)
     value = models.CharField(max_length=100)
+    
+    def __str__(self):
+        return f"{self.restaurant} - {self.value}"
 
 class ReviewTag(models.Model):
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='tags')
     tags = models.TextField()
+    
+    def __str__(self):
+        return f"{self.restaurant} - {self.tags}"
+
 
 class Service(models.Model):
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='services')
     url = models.URLField()
+    
+    def __str__(self):
+        return f"{self.restaurant} - {self.url}"
